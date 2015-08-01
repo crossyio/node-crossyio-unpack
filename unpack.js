@@ -26,7 +26,6 @@ try {
 }
 
 function unpack() {
-
   var filename = [
     packageJSON.name,
     packageJSON.version,
