@@ -1,0 +1,27 @@
+{
+  "name": "crossyio-unpack",
+  "version": "1.0.0",
+  "description": "crossy.io npm module unpacker",
+  "main": "unpack.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/crossyio/node-crossyio-unpack"
+  },
+  "keywords": [
+    "crossyio"
+  ],
+  "author": "CrossyIO <npm@crossy.io>",
+  "license": "MIT",
+  "bundledDependencies": [
+    "tar"
+  ],
+  "dependencies": {
+    "tar": "^2.1.1"
+  },
+  "crossyio": {
+    "url": "crossy.io/octoblu/crossyio-unpack"
+  }
+}
