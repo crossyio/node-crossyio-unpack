@@ -1,3 +1,13 @@
+//      __//
+//     /.__.\
+//     \ \/ /
+//  '__/    \
+//   \-      )
+//    \_____/
+// _____|_|____
+//      " "
+//   crossy.io
+
 'use strict'
 var fs = require('fs');
 var os = require('os');
