@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/crossyio/node-crossyio-unpack"
+    "url": "http://github.com/crossyio/node-crossyio-unpack.git"
   },
   "keywords": [
     "crossyio"
