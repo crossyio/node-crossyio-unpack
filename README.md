@@ -14,7 +14,7 @@ Include the following in your `package.json`.
 ```json
 {
   "scripts": {
-    "preinstall": "node node_modules/crossyio-unpack/preinstall.js; exit 0"
+    "preinstall": "node -e \"try{require('crossyio-unpack/preinstall');}catch(e){}\""
   },
   "bundledDependencies": [
     "crossyio-unpack"
