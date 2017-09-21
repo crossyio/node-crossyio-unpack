@@ -1,4 +1,6 @@
 # crossyio-unpack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/crossyio/node-crossyio-unpack.svg)](https://greenkeeper.io/)
 crossy.io npm module unpacker
 
 [![Build Status](https://travis-ci.org/crossyio/node-crossyio-unpack.svg?branch=master)](https://travis-ci.org/crossyio/node-crossyio-unpack)
