@@ -19,7 +19,7 @@
     "tar"
   ],
   "dependencies": {
-    "tar": "^2.1.1"
+    "tar": "^4.0.1"
   },
   "crossyio": {
     "url": "crossy.io/octoblu/crossyio-unpack"
